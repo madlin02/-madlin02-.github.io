@@ -1,0 +1,22 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: #0a4a1b
+}
+
+.experience-header {
+    font-size: 18;
+    font-weight: 600;
+    color: #0a4a1b
+}
+
+.bloomberg-container{
+    display: flex;
+    justify-content: center;
+}
+.bloomberg-image{
+    width: 50%;
+    max-width: 400px;
+}
